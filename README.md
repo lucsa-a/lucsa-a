@@ -22,3 +22,7 @@ I'm Lucas André! I'm a Computer Science student at UFCG.
 Check out some projects I've contributed to:
 
 - [👏 **ClapClap!** — *Haskell & Prolog*](https://github.com/helenazbm/ClapClap)
+- [🏨 **Hotel California** — *Java*](https://github.com/lucsa-a/hotel-california)
+- [☕ **Coffee** — *Spring Boot & JPA*](https://github.com/lucsa-a/coffee)
+- [🛒 **Ecommerce** — *Oracle SQL*](https://github.com/lucsa-a/ecommerce-bd)
+- [📚 **AluraBooks** — *HTML & CSS*](https://github.com/lucsa-a/AluraBooks)
