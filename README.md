@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## About me
+## About me 👋
 I'm Lucas André! I'm a Computer Science student at UFCG.
 
 - 📫 How to reach me: lucasamsousa@gmail.com.
@@ -19,3 +17,8 @@ I'm Lucas André! I'm a Computer Science student at UFCG.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+## 🚀 Projects
+Check out some projects I've contributed to:
+
+- [👏 **ClapClap!** — *Haskell & Prolog*](https://github.com/helenazbm/ClapClap)
