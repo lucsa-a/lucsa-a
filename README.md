@@ -26,3 +26,9 @@ Check out some projects I've contributed to:
 - [☕ **Coffee** — *Spring Boot & JPA*](https://github.com/lucsa-a/coffee)
 - [🛒 **Ecommerce** — *Oracle SQL*](https://github.com/lucsa-a/ecommerce-bd)
 - [📚 **AluraBooks** — *HTML & CSS*](https://github.com/lucsa-a/AluraBooks)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucsa-a&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="lucsa-a GitHub Stats"/>
+</p>
