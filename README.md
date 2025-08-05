@@ -22,5 +22,5 @@ I'm Lucas André! I'm a Computer Science student at UFCG.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucsa-a&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="lucsa-a GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsa-a&show_icons=true&theme=github_dark" alt="lucsa-a GitHub Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsa-a&layout=compact&theme=github_dark" alt="lucsa-a GitHub Top Languages"/>
 </p>
