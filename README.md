@@ -6,10 +6,10 @@ I'm Lucas André! I'm a Computer Science student at UFCG.
 - 👨‍🏫 I'm currently acting as a Teaching Assistant of Graph Theory and Computational Logic at UFCG.
 
 <div align="center">
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java"/>
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript"/>
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React"/>
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle"/>
 </div>
 <p></p>
 <p align="center">
@@ -18,17 +18,9 @@ I'm Lucas André! I'm a Computer Science student at UFCG.
   </a>
 </p>
 
-## 🚀 Projects
-Check out some projects I've contributed to:
-
-- [👏 **ClapClap!** — *Haskell & Prolog*](https://github.com/helenazbm/ClapClap)
-- [🏨 **Hotel California** — *Java*](https://github.com/lucsa-a/hotel-california)
-- [☕ **Coffee** — *Spring Boot & JPA*](https://github.com/lucsa-a/coffee)
-- [🛒 **Ecommerce** — *Oracle SQL*](https://github.com/lucsa-a/ecommerce-bd)
-- [📚 **AluraBooks** — *HTML & CSS*](https://github.com/lucsa-a/AluraBooks)
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucsa-a&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="lucsa-a GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsa-a&show_icons=true&theme=github_dark" alt="lucsa-a GitHub Top Languages"/>
 </p>
